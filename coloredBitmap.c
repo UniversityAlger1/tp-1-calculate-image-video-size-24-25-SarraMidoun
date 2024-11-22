@@ -8,7 +8,7 @@
 //   colored image size Bitmap (based on the unit passed parametter)
 float coloredBitmap(int w, int h, char* unit) {
    // YOUR CODE HERE - BEGIN
-  int sizeImg ;
+  float sizeImg ;
   sizeImg = w*h*3;
       // Convert the size to the desired unit
     
