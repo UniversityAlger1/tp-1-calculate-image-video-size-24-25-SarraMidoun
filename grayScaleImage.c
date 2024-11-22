@@ -6,7 +6,8 @@
 //   grayScale size of the image Bitmap (in byte)
 float grayScaleImage(int w, int h) {
    // YOUR CODE HERE - BEGIN
-
+    int size;
+    size = w*h;
    // YOUR CODE HERE - END
-   return 0;
+   return size;
 }
